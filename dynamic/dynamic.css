@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-size:20px;
+}
+
+ul{
+    list-style: none;
+    border-bottom:5px solid coral;
+    height:50px;
+    padding-left: 70px;
+}
+
+li{
+    float:left;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    display:block;
+    height: 30px;
+    width: 120px;
+    background-color: #FF9999;
+    line-height: 30px;
+    margin-bottom: 1px;
+    color:grey;
+    text-align: center;
+    margin-right: 1px;
+}
+
+.on, a:hover{
+    background-color: coral;
+    color:white;
+}

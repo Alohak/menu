@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-size:20px;
+}
+
+ul{
+    list-style: none;
+    width: 120px;
+}
+
+a{
+    text-decoration: none;
+    display:block;
+    height: 30px;
+    width: 120px;
+    background-color: #FF9999;
+    line-height: 30px;
+    margin-bottom: 1px;
+    text-indent: 16px;
+    color:gray;
+}
+
+a:hover{
+    background-color: coral;
+    color:white;
+}
